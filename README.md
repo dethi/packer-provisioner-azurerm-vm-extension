@@ -2,7 +2,7 @@
 
 `packer-provisioner-azurerm-vm-extension` is a provisioner plugin for Packer that let you add/remove Azure VM Extension during the provisioning phase.
 
-**Tested with Packer <=1.3**. The plugin needs to be adapted for Packer >=1.4 because of the addition of HCL2.
+**Tested with Packer <=1.3**. The plugin may need to be adapted for Packer >=1.4 because of the addition of HCL2.
 
 ## Use Cases
 
